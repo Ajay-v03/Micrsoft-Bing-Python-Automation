@@ -1,0 +1,5 @@
+selenium 3.141.0
+pandas 1.2.5
+regex 2021.4.4
+times 0.7
+multiprocess 0.70.12.2
